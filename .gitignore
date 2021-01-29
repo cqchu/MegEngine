@@ -1,6 +1,7 @@
 # Build
 build/
 output/
+build_dir/
 
 # Cache
 __pycache__/
